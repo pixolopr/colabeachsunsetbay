@@ -542,7 +542,7 @@ $(function () {
         }
     });
 });
-
+/*
 var controller = new ScrollMagic.Controller();
 
 var animate = $('#animate1')[0];
@@ -559,4 +559,4 @@ var scene = new ScrollMagic.Scene({
     indent: 300,
     colorStart: '#75e695'
 })
-.addTo(controller);
+.addTo(controller);*/
